@@ -9,19 +9,19 @@ Catalyst Requirements :
 
 Kindly create a Table in the Catalyst Console named "PODetails" with the following columns :
 
-email - Text
-contact_id - text
-poid - text
-name - text
-vendor_id - text
-total - text
-ponumber - text
-lineItemWinner - boolean
-rate - text
-lineitem - text
-itemid - text
-qty - text
-unit - text
+email - Text |
+contact_id - text |
+poid - text |
+name - text |
+vendor_id - text |
+total - text |
+ponumber - text |
+lineItemWinner - boolean |
+rate - text |
+lineitem - text |
+itemid - text |
+qty - text |
+unit - text |
 
 Configure your from email address for sending mail in the MAIL tab of the Catalyst Console.
 
