@@ -33,12 +33,12 @@ Books Requirements :
 
 You need to create a webhook for Purchase Order Module in books with the following details :
 
-Name - SendPOtoCatalyst
-Module - Purchase Order
-URL to notify - YOUR_APP_DOMAIN/server/bookscatalystconnection_function/receiveBooksInfo
-Method - POST
-Authorization Type - Self Authorization
-Entity Parameters - Append All Parameters
+Name - SendPOtoCatalyst |
+Module - Purchase Order |
+URL to notify - YOUR_APP_DOMAIN/server/bookscatalystconnection_function/receiveBooksInfo |
+Method - POST |
+Authorization Type - Self Authorization |
+Entity Parameters - Append All Parameters |
 
 and save the WebHook.
 
